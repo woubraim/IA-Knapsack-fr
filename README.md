@@ -77,4 +77,4 @@ Results and Observations
 
 References
 
-This project follows academic guidelines for AI courses focusing on evolutionary algorithms for optimization problems, including TP1 in AI52.
+This project follows academic guidelines for AI courses focusing on evolutionary algorithms for optimization problems.
