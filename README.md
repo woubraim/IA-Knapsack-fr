@@ -53,14 +53,12 @@ Requirements
 
     Python with numpy, pandas, and matplotlib for data handling and visualization.
 
-    pip install numpy pandas matplotlib
-
 Usage
 
-    Run Knapsack Problem:
-
-python question2A.py  # For penalty-based approach
-python question2B.py  # For feasibility-based approach
+Run Knapsack Problem:
+    
+    python question2A.py  # For penalty-based approach
+    python question2B.py  # For feasibility-based approach
 
 Run Portfolio Management:
 
