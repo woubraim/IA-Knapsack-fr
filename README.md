@@ -1,6 +1,7 @@
 # Genetic Algorithm for Knapsack Problem and Portfolio Management
 
 This repository implements a Genetic Algorithm (GA) to solve optimization problems like the Knapsack Problem (KP) and adapts it for portfolio management. The GA simulates an evolutionary approach to generate and select optimal solutions, balancing constraints such as weight in the KP or budget and risk limits in portfolio management.
+
 Project Objectives
 
     Knapsack Problem: Develop and apply a GA to maximize item value within a weight limit.
